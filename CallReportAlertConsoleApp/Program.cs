@@ -12,7 +12,7 @@ namespace CallReportAlertConsoleApp
         {
             Console.WriteLine(DateTime.Now);
             Console.WriteLine("Testing");
-            Console.WriteLine("Changing the code a lil");
+            Console.WriteLine("Dad please text me if you see this");
         }
     }
 }
