@@ -4,3 +4,6 @@ C:\Users\chase\Desktop\EcommerceSampleWebClientSourceCodeGood\EcommerceSampleWeb
 C:\Users\chase\Desktop\EcommerceSampleWebClientSourceCodeGood\EcommerceSampleWebClientSourceCode\CallReportAlertConsoleApp\obj\Debug\CallReportAlertConsoleApp.csprojResolveAssemblyReference.cache
 C:\Users\chase\Desktop\EcommerceSampleWebClientSourceCodeGood\EcommerceSampleWebClientSourceCode\CallReportAlertConsoleApp\obj\Debug\CallReportAlertConsoleApp.exe
 C:\Users\chase\Desktop\EcommerceSampleWebClientSourceCodeGood\EcommerceSampleWebClientSourceCode\CallReportAlertConsoleApp\obj\Debug\CallReportAlertConsoleApp.pdb
+C:\Users\chase\Desktop\CallReportAlert Github\CallReportAlert\CallReportAlertConsoleApp\bin\Debug\CallReportAlertConsoleApp.exe.config
+C:\Users\chase\Desktop\CallReportAlert Github\CallReportAlert\CallReportAlertConsoleApp\obj\Debug\CallReportAlertConsoleApp.exe
+C:\Users\chase\Desktop\CallReportAlert Github\CallReportAlert\CallReportAlertConsoleApp\obj\Debug\CallReportAlertConsoleApp.pdb
