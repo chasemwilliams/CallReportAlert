@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FFIECPublicWebServiceSample
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallReportAlertConsoleApp", "..\CallReportAlertConsoleApp\CallReportAlertConsoleApp.csproj", "{1EA7445D-DB2B-4E76-A5E4-FA7F7092BFB5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallReporter", "..\..\..\CallReporter\CallReporter\CallReporter.csproj", "{8D09B758-0D5C-437A-88A5-69CCF54B8D4F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,14 @@ Global
 		{1EA7445D-DB2B-4E76-A5E4-FA7F7092BFB5}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1EA7445D-DB2B-4E76-A5E4-FA7F7092BFB5}.Release|x64.ActiveCfg = Release|Any CPU
 		{1EA7445D-DB2B-4E76-A5E4-FA7F7092BFB5}.Release|x64.Build.0 = Release|Any CPU
+		{8D09B758-0D5C-437A-88A5-69CCF54B8D4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D09B758-0D5C-437A-88A5-69CCF54B8D4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D09B758-0D5C-437A-88A5-69CCF54B8D4F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8D09B758-0D5C-437A-88A5-69CCF54B8D4F}.Debug|x64.Build.0 = Debug|Any CPU
+		{8D09B758-0D5C-437A-88A5-69CCF54B8D4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D09B758-0D5C-437A-88A5-69CCF54B8D4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D09B758-0D5C-437A-88A5-69CCF54B8D4F}.Release|x64.ActiveCfg = Release|Any CPU
+		{8D09B758-0D5C-437A-88A5-69CCF54B8D4F}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
